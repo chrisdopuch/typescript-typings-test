@@ -1,6 +1,6 @@
 {
   "name": "@chrisdopuch/typescript-typings-test",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Messing around with TypeScript",
   "main": "dist/index.js",
   "scripts": {

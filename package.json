@@ -1,0 +1,24 @@
+{
+  "name": "typescript-typings-test",
+  "version": "0.0.1",
+  "description": "Messing around with TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "lint": "tslint --project tsconfig.json",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "typescript-typings-test"
+  },
+  "author": "Chris Dopuch",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^23.3.7",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.4",
+    "ts-lint": "^4.5.1",
+    "typescript": "^3.1.3"
+  }
+}

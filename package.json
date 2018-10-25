@@ -6,7 +6,6 @@
   "scripts": {
     "build": "tsc",
     "lint": "tslint --project tsconfig.json",
-    "publish": "npm publish --access public",
     "test": "jest"
   },
   "repository": {
